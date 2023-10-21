@@ -1,10 +1,10 @@
 # BookManagement_Eutech
-The first step set your mongoDb URL into server/server.js. then
+The first step set your mongoDb URL into server/server.js. then in a terminal
 ```
 cd server
 yarn start
 ```
-Then
+Then in another terminal
 ```
 cd client
 yarn start
